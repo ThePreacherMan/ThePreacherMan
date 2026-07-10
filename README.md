@@ -33,7 +33,7 @@ I enjoy solving technical problems and documenting my work so that others can le
 
 ---
 
-# 🎯 Current Goals
+# Current Goals
 
 - Build real-world cybersecurity projects
 - Strengthen Python security automation skills
@@ -44,7 +44,7 @@ I enjoy solving technical problems and documenting my work so that others can le
 
 ---
 
-# 🛠 Technologies I'm Working With
+# Technologies I'm Working With
 
 - Python
 - Linux
@@ -62,7 +62,7 @@ I enjoy solving technical problems and documenting my work so that others can le
 
 ---
 
-# 📚 Current Projects
+# 📚 Projects
 
 🚧 Python SOC Log Analyzer *(Coming Soon)*
 
@@ -76,7 +76,7 @@ I enjoy solving technical problems and documenting my work so that others can le
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 ✅ ISC2 Certified in Cybersecurity (CC)
 
@@ -86,11 +86,11 @@ I enjoy solving technical problems and documenting my work so that others can le
 
 # 📫 Connect With Me
 
-🌐 Portfolio:
+Portfolio:
 https://ibehchigoziem.com
 
-💼 LinkedIn:
+LinkedIn:
 https://www.linkedin.com/in/chigoziem-ibeh-seo-cybersecurity
 
-🐙 GitHub:
+GitHub:
 https://github.com/ThePreacherMan
