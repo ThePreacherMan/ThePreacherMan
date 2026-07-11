@@ -64,7 +64,11 @@ I enjoy solving technical problems and documenting my work so that others can le
 
 # 📚 Projects
 
-🚧 Python SOC Log Analyzer *(Coming Soon)*
+🚧 Python SOC Log Analyzer
+
+A modular Python-based SOC tool that parses authentication logs, detects brute-force activity, generates investigation reports, and runs automated tests with GitHub Actions.
+
+[View Repository](https://github.com/ThePreacherMan/python-soc-log-analyzer)
 
 🚧 Network Traffic Anomaly Detector *(Coming Soon)*
 
