@@ -62,22 +62,44 @@ I enjoy solving technical problems and documenting my work so that others can le
 
 ---
 
-# 📚 Projects
+## 📚 Projects
 
-🚧 Python SOC Log Analyzer
+### 🚧 Python SOC Log Analyzer
+A modular Python-based SOC tool that parses authentication logs, detects brute-force activity, generates investigation reports, and includes automated testing with GitHub Actions.
 
-A modular Python-based SOC tool that parses authentication logs, detects brute-force activity, generates investigation reports, and runs automated tests with GitHub Actions.
+🔗 View Repository
 
-[View Repository](https://github.com/ThePreacherMan/python-soc-log-analyzer)
+---
 
-🚧 Network Traffic Anomaly Detector *(Coming Soon)*
+### 🚧 Network Traffic Anomaly Detector
+A Python-based security tool that analyzes network flow data, detects abnormal traffic patterns, identifies potential threats, and produces detailed analysis reports with automated testing.
 
-🚧 Incident Response Lab *(Coming Soon)*
+🔗 View Repository
 
-🚧 Vulnerability Risk Dashboard *(Coming Soon)*
+---
 
-🚧 SEO Website Audit Tool *(Coming Soon)*
+### 🚧 Website Security & Malware Scanner
+A comprehensive website security scanner that checks for common web vulnerabilities, detects malware indicators, identifies suspicious code, and generates professional security assessment reports.
 
+🔗 View Repository
+
+---
+
+### 🚧 Vulnerability Risk Dashboard *(Coming Soon)*
+
+Interactive dashboard for vulnerability prioritization, CVSS scoring, risk visualization, and remediation tracking.
+
+---
+
+### 🚧 Cloud Security Audit Toolkit *(Coming Soon)*
+
+Automated AWS and Azure security auditing toolkit based on CIS Benchmarks and cloud security best practices.
+
+---
+
+### 🚧 Incident Response Playbook Generator *(Coming Soon)*
+
+Generate structured incident response playbooks for malware, phishing, ransomware, insider threats, and other common security incidents.
 ---
 
 # Certifications
